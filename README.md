@@ -1,3 +1,1 @@
-# arduino
-Arduino Projects
-# Home Automation
+Python basics
